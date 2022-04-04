@@ -18,4 +18,4 @@
 ---
 모든 사진은 중앙 정렬 작업 > 해상도 개선 > 안티앨리어싱 > 작업을 거쳤습니다.  
 금오공대 로고, 심볼마크, 국문로고, 영문로고 출처 [금오공과대학교](https://cic.kumoh.ac.kr/ko/sub01_01_02_01.do)  
-투명 로고 등 기타 사진이필요한 경우 [이곳](https://github.com/Htmla69/Kumoh_In7/tree/main/Images) 에서 다운받으세요.
+투명 로고 등 기타 사진이 필요한 경우 [이곳](https://github.com/Htmla69/Kumoh_In7/tree/main/Images) 에서 다운받으세요.
