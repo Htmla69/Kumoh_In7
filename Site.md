@@ -7,7 +7,6 @@
 [웹메일](https://mail.kumoh.ac.kr/)&nbsp;
 [강의지원시스템](http://elearning.kumoh.ac.kr/)
 
----
 #### 🍱 식당
 [학생식당](https://www.kumoh.ac.kr/ko/restaurant01.do)&nbsp;
 [교직원식당](https://www.kumoh.ac.kr/ko/restaurant02.do)
