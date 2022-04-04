@@ -3,10 +3,11 @@
 ##### 📂 자료실&nbsp;[사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md)&nbsp;[새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)&nbsp;[이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md)
 #### 금오공대 로고
 
-투명
+투명  
+<img src = "https://raw.githubusercontent.com/Htmla69/Kumoh_In7/main/Images/%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80%20%EB%A1%9C%EA%B3%A0%20%ED%88%AC%EB%AA%85.png" width="30%" height="30%">
 
-불투명
-<img src="https://raw.githubusercontent.com/Htmla69/Kumoh_In7/main/Images/%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80%20%EB%A1%9C%EA%B3%A0%20%ED%88%AC%EB%AA%85.png  width="300" height="300"/>
+불투명  
+<img src = "https://raw.githubusercontent.com/Htmla69/Kumoh_In7/main/Images/%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80%20%EB%A1%9C%EA%B3%A0.png" width="30%" height="30%">
 #### 국문로고
 
 #### 영문로고
