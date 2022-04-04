@@ -2,5 +2,9 @@
 이 페이지는 금오공과대학교 학생들을 위해 제작되었습니다! 마음껏 이용해주세요 🥰
 
 [금오공과대학교](https://www.kumoh.ac.kr/)
+[원스톱](https://onestop.kumoh.ac.kr/)
+[웹메일](https://mail.kumoh.ac.kr/)
+[강의지원시스템](http://elearning.kumoh.ac.kr/)
+[학식메뉴](https://www.kumoh.ac.kr/ko/restaurant01.do)
 [금오위키](https://wiki.kumoh42.com/)
 [금오사이](https://kumoh42.com/)
