@@ -1,6 +1,7 @@
 # 금오공과대학교 이미지 자료실
-이 페이지는 금오공과대학교 학생들을 위해 제작되었습니다! 마음껏 사용해주세요 🥰
+이 페이지는 금오공과대학교 학생들을 위해 제작되었습니다! 마음껏 사용해주세요 🥰  
 ##### 📂 자료실&nbsp;[사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md)&nbsp;[새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)&nbsp;[이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md)
+아래 사진들은 리포트 표지 삽입 자료로도 유용하게 쓰일 수 있습니다 :D
 
 #### 금오공대 로고
 <img src = "https://raw.githubusercontent.com/Htmla69/Kumoh_In7/main/Images/%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80%20%EB%A1%9C%EA%B3%A0.png" width="30%" height="30%">
