@@ -17,8 +17,6 @@
 #### 모바일 배경화면
 <img src = "https://raw.githubusercontent.com/Htmla69/Kumoh_In7/main/Images/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%8B%A4%ED%81%AC.png" width="30%" height="30%">
 
-#### 금오공대 전경사진
-
 ---
 모든 사진은 중앙 정렬 작업 > 해상도 개선 > 안티앨리어싱 > 작업을 거쳤습니다.  
 
