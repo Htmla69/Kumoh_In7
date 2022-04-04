@@ -14,9 +14,6 @@
 #### 영문로고
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80%20%EC%98%81%EB%AC%B8%EB%A1%9C%EA%B3%A0.png" width="30%" height="30%">
 
-#### 모바일 배경화면
-<img src = "https://raw.githubusercontent.com/Htmla69/Kumoh_In7/main/Images/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%8B%A4%ED%81%AC.png" width="30%" height="30%">
-
 ---
 모든 사진은 중앙 정렬 작업 > 해상도 개선 > 안티앨리어싱 > 작업을 거쳤습니다.  
 
