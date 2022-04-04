@@ -14,15 +14,8 @@
 #### 영문로고
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80%20%EC%98%81%EB%AC%B8%EB%A1%9C%EA%B3%A0.png" width="30%" height="30%">
 
-#### 아이폰 배경화면
-
-#### 아이폰(구형) 배경화면
-
-#### 아이패드 배경화면
-
-#### PC 배경화면
-1920x1080(FHD)
-3840x2160(4K)
+#### 모바일 배경화면
+<img src = "https://raw.githubusercontent.com/Htmla69/Kumoh_In7/main/Images/%EC%95%84%EC%9D%B4%ED%8F%B0%20%EB%8B%A4%ED%81%AC.png" width="30%" height="30%">
 
 #### 금오공대 전경사진
 
