@@ -19,3 +19,12 @@
 모든 사진은 중앙 정렬 작업 > 해상도 개선 > 안티앨리어싱 > 작업을 거쳤습니다.  
 금오공대 로고, 심볼마크, 국문로고, 영문로고 출처 [금오공과대학교](https://cic.kumoh.ac.kr/ko/sub01_01_02_01.do)  
 투명 로고 등 기타 사진이 필요한 경우 [이곳](https://github.com/Htmla69/Kumoh_In7/tree/main/Images) 에서 다운받으세요.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FImage.md&count_bg=%23FF1D1D&title_bg=%23000000&icon=atom.svg&icon_color=%23E7E7E7&title=%EC%9D%B4%EC%9A%A9%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Torbrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white"/>
