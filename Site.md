@@ -33,3 +33,12 @@
 
 ---
 버스시간표는 [금오사이 실시간 버스도착정보](https://kumoh42.com/bus) 의 사진을 사용합니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FSite.md&count_bg=%23FF1D1D&title_bg=%23000000&icon=atom.svg&icon_color=%23E7E7E7&title=%EC%9D%B4%EC%9A%A9%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Torbrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white"/>
