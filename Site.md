@@ -24,7 +24,7 @@
 [이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md)&nbsp;
 [사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md)&nbsp;
 [새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)&nbsp;
-[자료실 안내](https://github.com/Htmla69/Kumoh_In7/blob/main/Readme.md)
+[자료실안내](https://github.com/Htmla69/Kumoh_In7/blob/main/Readme.md)
 
 #### 🔰 새내기
 [학교항공맵](https://www.kumoh.ac.kr/vr02/tour.html)&nbsp;
