@@ -8,6 +8,8 @@
 [이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md) 은 고화질 및 투명한 학교 로고가 필요한 학우분들을 위해서 제작되었습니다.  
 [새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md) 은 학교 신입생들을 위한 각종 정보들을 요약 및 종합해드리기 위해서 제작되었습니다.
 
+본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다. 많은 이용 바랍니다 :D
+
 건의 & 문의사항은 ksjk6974@protonmail.com 으로 보내주세요!
 
 금오공대 재학생 20학번 드림
@@ -54,4 +56,10 @@
 
 ---
 ### 운영멤버
-**관리자** 금오공대 20학번
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%82%AC%EC%A7%84.png" width="10%" height="10%">
+
+**관리자**
+
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%AA%A8%EB%8B%88%ED%84%B0%20%EC%82%AC%EC%A7%84.jpg" width="10%" height="10%">
+
+**부계정**
