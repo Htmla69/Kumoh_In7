@@ -58,12 +58,10 @@
 ### 운영멤버
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%82%AC%EC%A7%84.png" width="10%" height="10%">
 
-**관리자**
-Running  
+**관리자** Jinnouchi  
 2022/4/4
 
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%AA%A8%EB%8B%88%ED%84%B0%20%EC%82%AC%EC%A7%84.jpg" width="9.5%" height="9.5%">
 
-**부계정**
-Testing  
+**부계정** SystemMonitor  
 2022/4/6
