@@ -1,6 +1,6 @@
 # 금오공과대학교 정보 자료실
-이 페이지는 금오공과대학교 학생들을 위해 제작되었습니다! 즐겨찾기에 추가해 쉽게 이동해보세요 🌟
-
+이 페이지는 금오공과대학교 학생들을 위해 제작되었습니다! 즐겨찾기에 추가해 쉽게 이동해보세요 🌟  
+**📂 자료실&nbsp;[사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md)&nbsp;[새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)&nbsp;[이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md)**
 
 ### 📚 공부
 **도서관 열람실** 1,2층  08:00 ~ 22:00  
@@ -42,7 +42,7 @@
 **테크노관** 정문 우측  
 **테크노관** 뒤 벤치  
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FInformation.md&count_bg=%23FF2B2B&title_bg=%23000000&icon=react.svg&icon_color=%23E7E7E7&title=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white"/>
