@@ -24,7 +24,7 @@
 **교직원식당** 11:30 ~ 14:00 | 17:30 ~ 18:30  
 **분식당** 11:30 ~ 18:30  
 **쿱스캣**  
-~[배달자료실](https://github.com/SystemMonitor4/Kumoh_In7/blob/main/Food.md#금오공대-배달자료실)~
+[배달자료실](https://github.com/SystemMonitor4/Kumoh_In7/blob/main/Food.md#금오공대-배달자료실)
 
 ### 💳 은행
 **농협** 글로벌관 128호  
