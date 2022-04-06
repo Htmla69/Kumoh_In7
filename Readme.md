@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white"/>
 
 ---
-#### 다음 업데이트
+### 다음 업데이트
 **배달자료실**  
 자료 추가
 에타 사용자 의견 수집 및 반영
