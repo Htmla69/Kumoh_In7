@@ -1,7 +1,7 @@
 # Introduce
 이 페이지들은 금오공대 학우 여러분들을 위해 만들어졌습니다. 🍀
 
-#### [사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md) [배달자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) [정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%95%EB%B3%B4-%EC%9E%90%EB%A3%8C%EC%8B%A4) [이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md) [새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)
+#### 📂 [사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md) [배달자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) [정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%95%EB%B3%B4-%EC%9E%90%EB%A3%8C%EC%8B%A4) [이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md) [새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)
 
 [사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md) 은 더 빠르게 각종 홈페이지로 이용하기 위해서 제작되었습니다.  
 [배달자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) 은 배달음식을 정할때 한눈에 메뉴선정을 가능하게 하기 위해서 만들어졌습니다.  
