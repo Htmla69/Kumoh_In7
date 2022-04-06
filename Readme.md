@@ -10,8 +10,6 @@
 
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다. 많은 이용 바랍니다 :D
 
-건의 & 문의사항은 ksjk69@protonmail.com 으로 보내주세요!
-
 금오공대 재학생 20학번 드림
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FReadme.md&count_bg=%23FF1D1D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%EC%9D%B4%EC%9A%A9%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -65,3 +63,9 @@
 
 **부계정** SystemMonitor  
 2022/4/6
+
+---
+### 문의
+깃허브 사용법이 완전히 숙달되지 않아 부족할 수 있습니다.
+지적할 부분은 달게 받아 깃허브 페이지에 적용하도록 하겠습니다.
+건의 & 문의사항은 ksjk69@protonmail.com 으로 보내주세요!
