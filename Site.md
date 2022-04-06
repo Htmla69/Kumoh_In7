@@ -23,7 +23,7 @@
 **📂 자료실**  
 [이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md)&nbsp;
 [사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md)&nbsp;
-[정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%95%EB%B3%B4-%EC%9E%90%EB%A3%8C%EC%8B%A4)  
+[정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%95%EB%B3%B4-%EC%9E%90%EB%A3%8C%EC%8B%A4)&nbsp;
 [새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)&nbsp;
 [자료실안내](https://github.com/Htmla69/Kumoh_In7/blob/main/Readme.md)
 
