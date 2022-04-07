@@ -1,4 +1,4 @@
-# 금오공과대학교 정보 자료실
+# 금오공과대학교 캠퍼스정보 자료실
 이 페이지는 금오공과대학교 학생들을 위해 제작되었습니다! 즐겨찾기에 추가해 쉽게 이동해보세요 🌟  
 **📂 자료실&nbsp;[사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md)&nbsp;[새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)&nbsp;[이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md)**
 
