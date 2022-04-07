@@ -3,10 +3,10 @@
 
 #### 📂 [사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md) [배달자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) [캠퍼스정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90-%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%A0%95%EB%B3%B4-%EC%9E%90%EB%A3%8C%EC%8B%A4) [이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md) [새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)
 
-[사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md) 은 더 빠르게 각종 홈페이지로 이용하기 위해서 제작되었습니다.  
-[배달자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) 은 배달음식을 정할때 한눈에 메뉴선정을 가능하게 하기 위해서 만들어졌습니다.  
-[이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md) 은 고화질 및 투명한 학교 로고가 필요한 학우분들을 위해서 제작되었습니다.  
-[새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md) 은 학교 신입생들을 위한 각종 정보들을 요약 및 종합해드리기 위해서 제작되었습니다.
+[**사이트자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md) 은 더 빠르게 각종 홈페이지로 이용하기 위해서 제작되었습니다.  
+[**배달자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) 은 배달음식을 정할때 한눈에 메뉴선정을 가능하게 하기 위해서 만들어졌습니다.  
+[**이미지자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md) 은 고화질 및 투명한 학교 로고가 필요한 학우분들을 위해서 제작되었습니다.  
+[**새내기자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md) 은 학교 신입생들을 위한 각종 정보들을 요약 및 종합해드리기 위해서 제작되었습니다.
 
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다. 많은 이용 바랍니다 :D
 
