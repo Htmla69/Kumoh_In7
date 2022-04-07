@@ -29,6 +29,27 @@
 **학생 편의를 증진하고 학교 발전을 도모한다.**
 
 ---
+
+### 운영멤버
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%82%AC%EC%A7%84.png" width="10%" height="10%">
+
+**관리자** Jinnouchi  
+2022/4/4
+
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%AA%A8%EB%8B%88%ED%84%B0%20%EC%82%AC%EC%A7%84.jpg" width="9.5%" height="9.5%">
+
+**부계정** SystemMonitor  
+2022/4/6
+
+---
+
+### 문의
+깃허브 사용법이 완전히 숙달되지 않아 부족할 수 있습니다.  
+피드백과 지적 모두 달게 받아 깃허브 페이지에 적용하도록 하겠습니다.  
+건의 & 문의사항은 ksjk69@protonmail.com 으로 보내주세요!  
+
+---
+
 ### 다음 업데이트
 **전체자료실**  
 가독성 확대  
@@ -54,21 +75,3 @@
 자료실 제작  
 리포트 표지 업로드  
 교수님의 피드백 적용 후 수정  
-
----
-### 운영멤버
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%82%AC%EC%A7%84.png" width="10%" height="10%">
-
-**관리자** Jinnouchi  
-2022/4/4
-
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%AA%A8%EB%8B%88%ED%84%B0%20%EC%82%AC%EC%A7%84.jpg" width="9.5%" height="9.5%">
-
-**부계정** SystemMonitor  
-2022/4/6
-
----
-### 문의
-깃허브 사용법이 완전히 숙달되지 않아 부족할 수 있습니다.  
-피드백과 지적 모두 달게 받아 깃허브 페이지에 적용하도록 하겠습니다.  
-건의 & 문의사항은 ksjk69@protonmail.com 으로 보내주세요!  
