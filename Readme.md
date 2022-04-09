@@ -9,7 +9,7 @@
 [**이미지자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Image.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 학교 로고를 다운받아보세요!  
 [**새내기자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Beginner.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%83%88%EB%82%B4%EA%B8%B0-%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 신입생 필독 글들을 읽어보세요!  
 
-#### 👫 [학생혜택](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Benefits.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%ED%95%99%EC%83%9D%ED%98%9C%ED%83%9D-%EC%9E%90%EB%A3%8C%EC%8B%A4)  
+#### 📚 [학생혜택](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Benefits.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%ED%95%99%EC%83%9D%ED%98%9C%ED%83%9D-%EC%9E%90%EB%A3%8C%EC%8B%A4)  
 
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다. 많은 이용 바랍니다 :D
 
