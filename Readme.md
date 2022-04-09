@@ -5,6 +5,7 @@
 
 [**사이트자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Site.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 모든 페이지를 버튼 한번에 접속하세요!  
 [**배달자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 배달음식을 골라보세요!  
+[**캠퍼스정보자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%A0%95%EB%B3%B4%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 캠퍼스의 각종 장소들을 확인해보세요!
 [**이미지자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Image.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 학교 로고를 다운받아보세요!  
 [**새내기자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Beginner.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%83%88%EB%82%B4%EA%B8%B0-%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 신입생 필독 글들을 읽어보세요!  
 
