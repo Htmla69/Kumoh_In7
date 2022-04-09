@@ -21,11 +21,7 @@
 [에타](https://kumoh.everytime.kr/)**
 
 **📂 자료실**  
-**[이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Image.md)&nbsp;
-[사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Site.md)&nbsp;
-[정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%95%EB%B3%B4-%EC%9E%90%EB%A3%8C%EC%8B%A4)&nbsp;
-[새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md)&nbsp;
-[자료실안내](https://github.com/Htmla69/Kumoh_In7/blob/main/Readme.md)**
+**[자료실안내](https://github.com/Htmla69/Kumoh_In7/blob/main/Readme.md#introduce) [사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Site.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9E%90%EB%A3%8C%EC%8B%A4) [배달자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) [캠퍼스정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%A0%95%EB%B3%B4%EC%9E%90%EB%A3%8C%EC%8B%A4) [이미지자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Image.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%90%EB%A3%8C%EC%8B%A4) [새내기자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Beginner.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%83%88%EB%82%B4%EA%B8%B0-%EC%9E%90%EB%A3%8C%EC%8B%A4)**
 
 **🔰 새내기**  
 **[학교항공맵](https://www.kumoh.ac.kr/vr02/tour.html)&nbsp;
