@@ -25,8 +25,9 @@
 맥도날드(요기요) 노브랜드버거 롯데리아 KFC 오늘,버거  
 
 ### 🍗 치킨
-갓튀긴후라이드 BBQ 푸라닭 노랑통닭 지코바 투존치킨 후라이드참잘 굽네치킨  
-심여사천북양념 바른치킨 오태식해바라기 멕시카나 스모프치킨 60계치킨
+갓튀긴후라이드 BBQ 푸라닭 노랑통닭 지코바 투존치킨 후라이드참잘 굽네치킨 나는자연닭이다
+심여사천북양념 바른치킨 오태식해바라기 멕시카나 스모프치킨 60계치킨 치킨더홈 숯불치킨참잘  
+훌랄라참숯바베큐치킨 깻잎두마리치킨 땅땅치킨
 
 ### 🍕 피자
 피자빅 빅스타피자 2피자1치킨 피자빙고 청년피자 피자알볼로  
@@ -46,7 +47,7 @@
 시리베이커리 오니와플 
 
 ---
-네이버 지도, 배달의민족, 요기요 등을 참고함
+네이버 지도, 배달의민족, 요기요, 에브리타임, 금오사이 등을 참고함
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FPages%2FFood.md&count_bg=%23FF2D2D&title_bg=%23000000&icon=samsungpay.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white"/>
