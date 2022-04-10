@@ -12,7 +12,7 @@
 #### 📚 [학생혜택](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Benefits.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%ED%95%99%EC%83%9D%ED%98%9C%ED%83%9D-%EC%9E%90%EB%A3%8C%EC%8B%A4)  
 
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다. 많은 이용 바랍니다 :D  
-금오공대 20학번 컴소공 Jinnouchi 드림
+금오공대 20학번 Jinnouchi 드림
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FReadme.md&count_bg=%23FF1D1D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%EC%9D%B4%EC%9A%A9%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white"/>
