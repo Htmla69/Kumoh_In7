@@ -19,7 +19,7 @@
 
 ## 교통안내
 
-[**버스노선종합도**]()
+[**버스노선종합도**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Wiki/Fixed/%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0%EC%A2%85%ED%95%A9%EB%8F%84.md#%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0%EC%A2%85%ED%95%A9%EB%8F%84)
 
 **⚠️ 모든 자료는 샘플임**
 댕댕이님께 아카이브화를 허락 받을 예정에 있음.
