@@ -42,7 +42,7 @@
 
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%AA%A8%EB%8B%88%ED%84%B0%20%EC%82%AC%EC%A7%84.jpg" width="9.5%" height="9.5%">
 
-**부계정** SystemMonitor  
+**관리봇** SystemMonitor  
 2022/4/6
 
 이 페이지들은 기관이나 단체가 아닌 개인이 운영합니다.
@@ -85,5 +85,8 @@
 
 **학생혜택자료실**  
 22/04/10 자료실 신규생성    
+
+**관리봇 [링크](https://github.com/Htmla69/Kumoh_In7/blob/main/Junk/Update.md)**
+22/04/11 자동화 관리봇 테스트운영 시작  
 
 ![Htmla69's github stats](https://github-readme-stats.vercel.app/api?username=Htmla69&show_icons=true)
