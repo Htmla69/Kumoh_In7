@@ -86,7 +86,7 @@
 **학생혜택자료실**  
 22/04/10 자료실 신규생성    
 
-**관리봇 [링크](https://github.com/Htmla69/Kumoh_In7/blob/main/Junk/Update.md)**
+**관리봇 [링크](https://github.com/Htmla69/Kumoh_In7/blob/main/Junk/Update.md)**  
 22/04/11 자동화 관리봇 테스트운영 시작  
 
 ![Htmla69's github stats](https://github-readme-stats.vercel.app/api?username=Htmla69&show_icons=true)
