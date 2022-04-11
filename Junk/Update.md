@@ -13,3 +13,4 @@
 2022-04-11 23:38:37.232829 :rocket: SystemMonitor SystemOn 자동화봇 시스템이 시작되었습니다.  
 2022-04-11 23:42:53.071550 :rocket: SystemMonitor SystemOn 자동화봇 시스템이 시작되었습니다.  
 2022-04-11 23:43:05.651743 :chains: 하이퍼링크 검증작업 시작  
+2022-04-11 23:43:13.186210 :recycle: [금오피디아 아카이브](https://github.com/Htmla69/Kumoh_In7) 페이지 검증 시작  
