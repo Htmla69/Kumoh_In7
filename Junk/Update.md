@@ -37,3 +37,4 @@
 2022-04-11 22:59:40.925331 :green_circle SystemMonitor SystemOn 자동화봇 시스템이 시작되었습니다.  
 2022-04-11 22:59:46.413312 하이퍼링크 검증작업 시작  
 2022-04-11 23:00:10.023460 [금오공대 사이트자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Site.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9E%90%EB%A3%8C%EC%8B%A4) 페이지 검증 시작  
+2022-04-11 23:00:26.140945 [검증필요](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%83%88%EB%82%B4%EA%B8%B0-%EC%9E%90%EB%A3%8C%EC%8B%A4)  
