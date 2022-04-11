@@ -1,6 +1,6 @@
 # 금오피디아 아카이브
 
-**⚠️공사중**
+**⚠️공사중 ⚠️5월까지 ⚠️공사중**
 
 #### 📂 [금오피디아](https://github.com/Htmla69/Kumoh_In7/tree/main/Pages/Wiki#-%EA%B8%88%EC%98%A4%ED%94%BC%EB%94%94%EC%95%84) [사이트](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Site.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9E%90%EB%A3%8C%EC%8B%A4) [배달](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) [캠퍼스정보](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%A0%95%EB%B3%B4%EC%9E%90%EB%A3%8C%EC%8B%A4) [이미지](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Image.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%90%EB%A3%8C%EC%8B%A4) 
 
