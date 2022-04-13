@@ -16,15 +16,7 @@
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다. 많은 이용 바랍니다 :D  
 금오공대 20학번 Jinnouchi 드림
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FReadme.md&count_bg=%23FF1D1D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%EC%9D%B4%EC%9A%A9%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
-<img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white"/>
-<img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Torbrowser&logoColor=white"/>
-<img src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white"/>
-
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="30%" height="30%">
 ---
 ### 운영목적
 자료실은 아래 이유에 근거해 운영됩니다.  
@@ -99,4 +91,13 @@
 
 ![Htmla69's github stats](https://github-readme-stats.vercel.app/api?username=Htmla69&show_icons=true)
 
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/LogoMain2.png" width="100%" height="100%">
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/LogoMain2.png" width="100%" height="100%">  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHtmla69%2FKumoh_In7%2Fblob%2Fmain%2FReadme.md&count_bg=%23FF1D1D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=%EC%9D%B4%EC%9A%A9%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=FirefoxBrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Torbrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white"/>
