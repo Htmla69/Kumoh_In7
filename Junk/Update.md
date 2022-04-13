@@ -40,3 +40,4 @@
 2022-04-13 16:10:28.009585 [:warning: 검증필요](https://github.com/Htmla69/Kumoh_In7/blob/main/Beginner.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%83%88%EB%82%B4%EA%B8%B0-%EC%9E%90%EB%A3%8C%EC%8B%A4)  
 2022-04-13 16:10:33.019771 :heavy_check_mark: 16 개의 하이퍼링크 검증이 모두 끝났습니다.  
 2022-04-13 16:10:39.133224 :chains: 하이퍼링크 검증작업 시작  
+2022-04-13 16:10:56.230815 :recycle: [금오공대 캠퍼스정보자료실](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%A0%95%EB%B3%B4%EC%9E%90%EB%A3%8C%EC%8B%A4) 페이지 검증 시작  
