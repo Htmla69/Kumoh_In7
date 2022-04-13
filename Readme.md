@@ -99,4 +99,4 @@
 
 ![Htmla69's github stats](https://github-readme-stats.vercel.app/api?username=Htmla69&show_icons=true)
 
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/LogoMain2.jpg" width="100%" height="100%">
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/LogoMain2.png" width="100%" height="100%">
