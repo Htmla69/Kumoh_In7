@@ -28,12 +28,12 @@
 ---
 
 ### 운영멤버
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%82%AC%EC%A7%84.png" width="15%" height="15%">
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%82%AC%EC%A7%84.png" width="150" height="150">
 
 **관리자** Jinnouchi  
 2022/4/4
 
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%AA%A8%EB%8B%88%ED%84%B0%20%EC%82%AC%EC%A7%84.jpg" width="15%" height="15%">
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%AA%A8%EB%8B%88%ED%84%B0%20%EC%82%AC%EC%A7%84.jpg" width="150" height="150">
 
 **관리봇** SystemMonitor  
 2022/4/6
@@ -48,7 +48,7 @@
 ---
 ### 상징
 
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Logo.jpg" width="20%" height="20%">  
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Logo.jpg" width="150" height="150">  
  
 **색상코드** <img src="https://img.shields.io/badge/AAE5FF-AAE5FF?style=flat-square&logo=Adobe&logoColor=black"/> <img src="https://img.shields.io/badge/0066FF-0066FF?style=flat-square&logo=Adobe&logoColor=white"/>  
 **펜촉 끝으로 모이는 잉크를 형상화하여, 학우들의 학구열과 '피디아'의 특성을 상징하고 있다.**  
