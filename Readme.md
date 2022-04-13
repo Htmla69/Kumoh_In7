@@ -16,7 +16,7 @@
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다. 많은 이용 바랍니다 :D  
 금오공대 20학번 Jinnouchi 드림
 
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="30%" height="30%">
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="25%" height="25%">
 
 ---
 ### 운영목적
