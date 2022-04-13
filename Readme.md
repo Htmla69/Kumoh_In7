@@ -53,6 +53,11 @@
 
 
 ---
+### 상징
+
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Logo.jpg" width="20%" height="20%">  
+
+**펜촉 끝으로 모이는 잉크를 형상화하여, 학우들의 학구열과 '피디아'의 특성을 상징하고 있다.**  
 
 ### 문의
 깃허브 사용법이 완전히 숙달되지 않아 부족할 수 있습니다.  
