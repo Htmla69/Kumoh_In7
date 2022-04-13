@@ -33,3 +33,4 @@
 2022-04-13 16:08:33.628252 :recycle: [금오피디아 아카이브](https://github.com/Htmla69/Kumoh_In7) 페이지 검증 시작  
 2022-04-13 16:08:53.494378 :heavy_check_mark: 15 개의 하이퍼링크 검증이 모두 끝났습니다.  
 2022-04-13 16:09:25.693693 :chains: 하이퍼링크 검증작업 시작  
+2022-04-13 16:09:36.330284 :recycle: [금오피디아](https://github.com/Htmla69/Kumoh_In7/tree/main/Pages/Wiki#-%EA%B8%88%EC%98%A4%ED%94%BC%EB%94%94%EC%95%84) 페이지 검증 시작  
