@@ -17,6 +17,7 @@
 금오공대 20학번 Jinnouchi 드림
 
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="30%" height="30%">
+
 ---
 ### 운영목적
 자료실은 아래 이유에 근거해 운영됩니다.  
