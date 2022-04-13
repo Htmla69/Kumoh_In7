@@ -98,3 +98,5 @@
 22/04/13 하이퍼링크 자동검증 구현 완료  
 
 ![Htmla69's github stats](https://github-readme-stats.vercel.app/api?username=Htmla69&show_icons=true)
+
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/LogoMain.jpg" width="100%" height="100%">
