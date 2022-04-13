@@ -34,4 +34,4 @@
 |:---:|:---:|:---:|:---:|
 수강신청|
 
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="100%" height="100%">
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="30%" height="30%">
