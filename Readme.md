@@ -66,6 +66,7 @@
 
 **금오피디아**  
 22/04/10 자료실 신규생성, 구조 구상후 폴더 추가작업 완료, [버스노선종합도](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Wiki/Fixed/%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0%EC%A2%85%ED%95%A9%EB%8F%84.md#%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0%EC%A2%85%ED%95%A9%EB%8F%84) 작성완료. 
+22/04/15 [도서관 이용방법](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Wiki/Fixed/%EB%8F%84%EC%84%9C%EA%B4%80%EC%9D%B4%EC%9A%A9%EB%B0%A9%EB%B2%95.md#%EB%8F%84%EC%84%9C%EA%B4%80-%EC%9D%B4%EC%9A%A9%EB%B0%A9%EB%B2%95) 작성완료.
 
 **사이트자료실**  
 22/04/10 사이트 추가, 하이퍼링크 재수정  
