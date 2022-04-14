@@ -17,8 +17,8 @@
 ## 시설이용
 
 [**🟢도서관 이용방법**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Wiki/Fixed/%EB%8F%84%EC%84%9C%EA%B4%80%EC%9D%B4%EC%9A%A9%EB%B0%A9%EB%B2%95.md#%EB%8F%84%EC%84%9C%EA%B4%80-%EC%9D%B4%EC%9A%A9%EB%B0%A9%EB%B2%95)  
-[**[🔴식당] 시설이용방법**]()  
-[**[🔴와이파이] 이용방법**]()
+[**🔴식당 이용방법**]()  
+[**🔴와이파이 이용방법**]()
 
 ## 교통안내
 
