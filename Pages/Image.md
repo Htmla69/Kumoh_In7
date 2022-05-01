@@ -15,6 +15,14 @@
 #### 영문로고
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80%20%EC%98%81%EB%AC%B8%EB%A1%9C%EA%B3%A0.png" width="30%" height="30%">
 
+
+## 건물  
+### 도서관  
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/Building/%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AF_%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%E1%84%80%E1%85%AA%E1%86%AB.JPG" width="50%" height="50%">
+
+### 디지털관  
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/Building/%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AF_%E1%84%83%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%90%E1%85%A5%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB.JPG" width="50%" height="50%">
+
 ---
 모든 사진은 중앙 정렬 작업 > 해상도 개선 > 안티앨리어싱 > 작업을 거쳤습니다.  
 금오공대 로고, 심볼마크, 국문로고, 영문로고 출처 [금오공과대학교](https://cic.kumoh.ac.kr/ko/sub01_01_02_01.do)  
