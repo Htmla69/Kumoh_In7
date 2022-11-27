@@ -1,7 +1,12 @@
 # 금오피디아 아카이브
 
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/%EA%B8%88%EC%98%A4%ED%94%BC%EB%94%94%EC%95%84%20%EB%A9%94%EC%9D%B8%20-%2064.png?raw=true" width="500">
 
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="330.215" height="100">
+[**금오피디아 앱 소개**](https://sites.google.com/view/dolce-lab/product/kumohpedia)  
+[**플레이스토어**](https://play.google.com/store/apps/details?id=com.dolcelab.kumohpedia)  
+**아래 사이트는 업데이트가 중단되었으며, 모든 기능은 위 앱으로 이전되었습니다. (2022/11/1)**  
+
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/Banner.png" width="330.215" height="100">  
 
 #### [금오피디아](https://github.com/Htmla69/Kumoh_In7/tree/main/Pages/Wiki#-%EA%B8%88%EC%98%A4%ED%94%BC%EB%94%94%EC%95%84) [사이트](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Site.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9E%90%EB%A3%8C%EC%8B%A4) [배달](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Food.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EB%B0%B0%EB%8B%AC%EC%9E%90%EB%A3%8C%EC%8B%A4) [캠퍼스](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%A0%95%EB%B3%B4%EC%9E%90%EB%A3%8C%EC%8B%A4) [이미지](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Image.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%90%EB%A3%8C%EC%8B%A4) [혜택](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Benefits.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%ED%95%99%EC%83%9D%ED%98%9C%ED%83%9D-%EC%9E%90%EB%A3%8C%EC%8B%A4)   
 
@@ -14,12 +19,6 @@
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다.    
 이 페이지들은 금오공대 학우 여러분들을 위해 만들어졌습니다. 많은 이용 바랍니다 :D   
 금오공대 재학생 Jinnouchi 드림  
-
-<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/%EA%B8%88%EC%98%A4%ED%94%BC%EB%94%94%EC%95%84%20%EB%A9%94%EC%9D%B8%20-%2064.png?raw=true" width="500">
-
-**이 사이트는 업데이트가 중단되었으며, 모든 기능은 앱으로 이전되었습니다. (2022/11/1)**  
-[**금오피디아 소개**](https://sites.google.com/view/dolce-lab/product/kumohpedia)  
-[**플레이스토어**](https://play.google.com/store/apps/details?id=com.dolcelab.kumohpedia)  
 
 ---
 ### 운영목적
