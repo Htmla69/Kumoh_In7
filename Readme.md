@@ -17,9 +17,9 @@
 
 <img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/%EA%B8%88%EC%98%A4%ED%94%BC%EB%94%94%EC%95%84%20%EB%A9%94%EC%9D%B8%20-%2064.png?raw=true" width="500">
 
-**이 사이트는 업데이트가 중단되었으며, 모든 기능은 앱으로 이전되었습니다.**
-[**금오피디아 소개**](https://sites.google.com/view/dolce-lab/product/kumohpedia)
-[**플레이스토어**](https://play.google.com/store/apps/details?id=com.dolcelab.kumohpedia)
+**이 사이트는 업데이트가 중단되었으며, 모든 기능은 앱으로 이전되었습니다.**  
+[**금오피디아 소개**](https://sites.google.com/view/dolce-lab/product/kumohpedia)  
+[**플레이스토어**](https://play.google.com/store/apps/details?id=com.dolcelab.kumohpedia)  
 
 ---
 ### 운영목적
