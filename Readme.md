@@ -11,11 +11,15 @@
 [**캠퍼스정보자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Information.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%A0%95%EB%B3%B4%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 캠퍼스의 각종 장소들을 확인해보세요!  
 [**이미지자료실**](https://github.com/Htmla69/Kumoh_In7/blob/main/Pages/Image.md#%EA%B8%88%EC%98%A4%EA%B3%B5%EB%8C%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%90%EB%A3%8C%EC%8B%A4) 에서 로고와 학교전경을 다운받아보세요!    
 
-
 본 자료실은 PC와 모바일 모두 사용 가능하도록 UI가 최적화되어 있습니다.    
 이 페이지들은 금오공대 학우 여러분들을 위해 만들어졌습니다. 많은 이용 바랍니다 :D   
 금오공대 재학생 Jinnouchi 드림  
 
+<img src = "https://github.com/Htmla69/Kumoh_In7/blob/main/Images/KumohPedia/%EA%B8%88%EC%98%A4%ED%94%BC%EB%94%94%EC%95%84%20%EB%A9%94%EC%9D%B8%20-%2064.png?raw=true" width="500">
+
+**이 사이트는 업데이트가 중단되었으며, 모든 기능은 앱으로 이전되었습니다.**
+[**금오피디아 소개**](https://sites.google.com/view/dolce-lab/product/kumohpedia)
+[**플레이스토어**](https://play.google.com/store/apps/details?id=com.dolcelab.kumohpedia)
 
 ---
 ### 운영목적
